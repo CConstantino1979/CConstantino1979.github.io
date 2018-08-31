@@ -1,0 +1,62 @@
+/*
+BACKGROUND-COLOR:;
+COLOR:;
+FONT-SIZE:;
+HEIGHT:;
+WIDTH:;
+BACKGRAUND-IMAGE:;
+DISPLAY:;
+FLEX-DIRECTION:;
+JUSTIFY-CONTENT:;
+ALIGN-ITEMS:;
+
+
+1-Creer un normalize - utiliser un nouveau site, pas le meme d'avant
+2-creer le site a droite
+*/
+
+
+
+
+
+
+nav{
+	height: 50px;
+	width: 100%;
+	background-color: #00004d;
+	font-size: 14px;
+	color: white;
+
+}
+
+ul{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	align-items: center;
+	margin: 0px;
+	height: 50px;
+	width: 90%
+}
+
+li{
+	margin:10px;
+
+}
+
+li.aida{
+	display: flex;
+	color:white;
+	align-items: center;
+	justify-content: flex-end;
+	font-size: 16px
+
+}
+
+li.diogo{}	
+
+.header.area{
+	background-image: url("https://s3u.tmimgcdn.com/1698325-15245434336610_02.jpg");
+	background-size:cover;
+	width:100%;
+	display:;
